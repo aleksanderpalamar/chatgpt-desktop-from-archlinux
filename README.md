@@ -1,5 +1,7 @@
 # ChatGPT para Arch Linux
 
+**Português** | [English](README.en.md)
+
 Este repositório empacota o aplicativo desktop oficial do ChatGPT, distribuído
 pela OpenAI em formato `.deb`, como um pacote nativo do Arch Linux gerenciado
 pelo `pacman`.

@@ -1,0 +1,11 @@
+# Pacote Debian usado como fonte
+/*.deb
+
+# Artefatos gerados pelo makepkg
+/pkg/
+/src/
+/*.pkg.tar.*
+
+# Metadados locais das ferramentas
+/.agents/
+/.codex/
